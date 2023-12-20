@@ -1,7 +1,7 @@
-# Air-pollution-Measurements
+# Ατμοσφαιρική ρύπανση-Μετρήσεις
 
-The measured substances are sulphur dioxide (SO2), nitrogen dioxide (NO2), nitrogen oxides, lead, particulate matter, benzene, carbon monoxide and ozone as well as certain heavy metals. The Environmental Protection Agency has signed an agreement with DCE under which DCE is responsible for the measurements.
+Οι μετρούμενες ουσίες είναι το διοξείδιο του θείου (SO2), το διοξείδιο του αζώτου (NO2), τα οξείδια του αζώτου, ο μόλυβδος, τα σωματίδια, το βενζόλιο, το μονοξείδιο του άνθρακα και το όζον καθώς και ορισμένα βαρέα μέταλλα. Η Υπηρεσία Προστασίας του Περιβάλλοντος έχει υπογράψει συμφωνία με την DCE βάσει της οποίας η DCE είναι υπεύθυνη για τις μετρήσεις.
 
-The measurements allow the Environmental Protection Agency to keep a watch over the air quality. Limits for acceptable levels of air pollution have been set in order to protect the population from the dangerous effects of pollution on health. Limit values have thus been determined for each of the above-mentioned substances.
+Οι μετρήσεις επιτρέπουν στην Υπηρεσία Προστασίας του Περιβάλλοντος να παρακολουθεί την ποιότητα του αέρα. Έχουν τεθεί όρια για αποδεκτά επίπεδα ατμοσφαιρικής ρύπανσης προκειμένου να προστατευθεί ο πληθυσμός από τις επικίνδυνες επιπτώσεις της ρύπανσης στην υγεία. Ως εκ τούτου, έχουν καθοριστεί οριακές τιμές για καθεμία από τις προαναφερθείσες ουσίες.
 
-Denmark meets the limit values for most substances, however extra effort is required with regard to particles and NO2 . Measurements are taken in the Copenhagen area, Aarhus, Odense and Aalborg and at several measuring stations outside the cities.
+Η Δανία πληροί τις οριακές τιμές για τις περισσότερες ουσίες, ωστόσο απαιτείται πρόσθετη προσπάθεια όσον αφορά τα σωματίδια και το NO2. Οι μετρήσεις γίνονται στην περιοχή της Κοπεγχάγης, στο Aarhus, στο Odense και στο Aalborg και σε αρκετούς σταθμούς μέτρησης εκτός των πόλεων.
